@@ -1,1 +1,1 @@
-(prelude-require-packages '(solarized-theme))
+(prelude-require-package 'solarized-theme)
